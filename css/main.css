@@ -1,4 +1,14 @@
-.body {
-  font-family: "Bahnschrift", Times, serif;
+body {
+}
+
+h1 {
+  font-family: "Bahnschrift", serif;
   font-size: 24px ;
+  font-weight: 300;
+}
+
+h2 {
+  font-family: "Bahnschrift", serif;
+  font-size: 20px ;
+  font-weight: 300;
 }
